@@ -1,5 +1,5 @@
 module.exports={
-token: "Bot Toke",
+token: "Bot Token",
 prefix: "!"
 
 }
