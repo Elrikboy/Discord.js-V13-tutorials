@@ -9,10 +9,6 @@ client.on('ready', () => {
 });
 
 
-
-
-
-
 client.login(process.env.token)
 
 //NEXT I'LL TEACH YOU TO MAKE COMMANDS
