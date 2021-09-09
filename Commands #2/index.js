@@ -28,4 +28,4 @@ client.on('messageCreate', message => {
 
 client.login(config.token)
 
-//NEXT I'LL TEACH YOU TO MAKE COMMANDS
+//NEXT I'LL TEACH YOU TO MAKE EMBED MESSAGES
